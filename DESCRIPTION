@@ -1,13 +1,8 @@
 Package: CSSP
 Type: Package
 Title: ChIP-Seq Statistical Power
-<<<<<<< .working
-Version: 1.4.0
-Date: 2014-03-01
-=======
 Version: 1.5.1
 Date: 2015-02-07
->>>>>>> .merge-right.r99186
 Author: Chandler Zuo, Sunduz Keles
 Maintainer: Chandler Zuo<zuo@stat.wisc.edu>
 Description: Power computation for ChIP-Seq data based on Bayesian
